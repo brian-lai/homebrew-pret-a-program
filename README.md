@@ -5,7 +5,7 @@ Homebrew formulae for [Pret-a-Program](https://github.com/brian-lai/PARA-Program
 ## Installation
 
 ```bash
-brew install brian-lai/pret-a-program
+brew install brian-lai/pret-a-program/pret-a-program
 ```
 
 Or explicitly:
